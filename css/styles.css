@@ -3199,7 +3199,7 @@ img.u-pull-left {
     min-height      : calc(25.5 * var(--space));
     justify-content : center;
     align-items     : center;
-    padding-top     : calc(16vh + var(--header-height));
+    padding-top     : calc(8vh + var(--header-height));
     padding-bottom  : var(--vspace-3);
 }
 
@@ -3301,7 +3301,7 @@ img.u-pull-left {
     }
 
     .intro-content {
-        padding-top : calc(14vh + var(--header-height));
+        padding-top : calc(6vh + var(--header-height));
     }
 }
 
@@ -3324,7 +3324,7 @@ img.u-pull-left {
     .intro-content {
         min-height  : 0;
         align-items : flex-start;
-        padding-top : calc(9.6rem + var(--header-height));
+        padding-top : calc(4.8rem + var(--header-height));
     }
 
     .intro-content .text-huge-title {
